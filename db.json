@@ -1,20 +1,24 @@
 {
     "posts": [
       {
-        "id": 1,
-        "title": "Hola"
+        "id": 100,
+        "posicion": "Developer",
+        "nombre": "Mauricio Del Aguila"
       },
       {
-        "id": 2,
-        "title": "Chau"
+        "id": 150,
+        "posicion": "Empleado",
+        "nombre": "Jorge Asman"
       },
       {
-        "id": 3,
-        "title": "Que ondaaa"
+        "id": 200,
+        "posicion": "Barrendero",
+        "nombre": "Pandolfo Guzman"
       },
       {
-        "id": 4,
-        "title": "Wasaaaap"
+        "id": 300,
+        "posicion": "asdadada",
+        "nombre": "Remnant"
       }
     ],
     "profile": {
